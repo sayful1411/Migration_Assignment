@@ -31,13 +31,13 @@
   >  step 6: run migration 
 
 ```bash
-  cd php artisan migrate 
+  php artisan migrate 
   ``` 
   
   >  step 7: run project
   
 ```bash
-  cd php artisan serve
+  php artisan serve
   ``` 
 
 
